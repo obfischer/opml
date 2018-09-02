@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Oliver subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Java Persistence Performance" title="Java Persistence Performance">
+            <outline type="rss" text="Java Persistence Performance" title="Java Persistence Performance" xmlUrl="http://java-persistence-performance.blogspot.com/feeds/posts/default" htmlUrl="http://java-persistence-performance.blogspot.com/"/>
+        </outline>
+        <outline text="Server" title="Server">
+            <outline type="rss" text="WildFly News" title="WildFly News" xmlUrl="http://wildfly.org/news.atom" htmlUrl="http://wildfly.org/"/>
+        </outline>
+        <outline text="Was mit Menschen" title="Was mit Menschen">
+            <outline type="rss" text="Svenja Hoferts Kolumnen zu Karriere, Führung und Entwicklung" title="Svenja Hoferts Kolumnen zu Karriere, Führung und Entwicklung" xmlUrl="http://karriereblog.svenja-hofert.de/feed/" htmlUrl="https://karriereblog.svenja-hofert.de"/>
+        </outline>
+        <outline text="Java Blog | Javainsel-Blog" title="Java Blog | Javainsel-Blog">
+            <outline type="rss" text="Inductive Bias" title="Inductive Bias" xmlUrl="http://blog.isabel-drost.de/rss.xml" htmlUrl="http://blog.isabel-drost-fromm.de/"/>
+            <outline type="rss" text="Java Blog | Javainsel-Blog" title="Java Blog | Javainsel-Blog" xmlUrl="http://www.tutego.de/blog/javainsel/feed/" htmlUrl="http://www.tutego.de/blog/javainsel"/>
+        </outline>
+        <outline text="Humor" title="Humor">
+            <outline type="rss" text="Notes of Berlin" title="Notes of Berlin" xmlUrl="http://www.notesofberlin.com/feed" htmlUrl="https://www.notesofberlin.com"/>
+            <outline type="rss" text="fun.drno.de" title="fun.drno.de" xmlUrl="http://fun.drno.de/changelog/last-42-changes.rdf" htmlUrl="http://fun.drno.de"/>
+        </outline>
+        <outline text="Google Research Blog" title="Google Research Blog">
+            <outline type="rss" text="Google Research Blog" title="Google Research Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://ai.googleblog.com/"/>
+        </outline>
+        <outline text="Lean und Kanban" title="Lean und Kanban">
+            <outline type="rss" text="Lean und Kanban" title="Lean und Kanban" xmlUrl="http://www.software-kanban.de/feeds/posts/default" htmlUrl="http://www.software-kanban.de/"/>
+        </outline>
+        <outline text="Software Engineering Blog" title="Software Engineering Blog">
+            <outline type="rss" text="Software Engineering Blog" title="Software Engineering Blog" xmlUrl="http://www.swe-blog.net/atom.xml" htmlUrl="http://www.swe-blog.net/"/>
+        </outline>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="Haoyi's Programming Blog" title="Haoyi's Programming Blog" xmlUrl="http://www.lihaoyi.com/feed.xml" htmlUrl="http://www.lihaoyi.com/"/>
+            <outline type="rss" text="Spring Engineering" title="Spring Engineering" xmlUrl="http://spring.io/blog/category/engineering.atom" htmlUrl="http://spring.io/blog/category/engineering"/>
+            <outline type="rss" text="Spring" title="Spring" xmlUrl="http://spring.io/blog.atom" htmlUrl="http://spring.io/blog"/>
+            <outline type="rss" text="API Handyman" title="API Handyman" xmlUrl="https://apihandyman.io/feed.xml" htmlUrl="https://apihandyman.io/"/>
+        </outline>
+        <outline text="PHP Magazin Inhalte" title="PHP Magazin Inhalte">
+            <outline type="rss" text="PHP Magazin Inhalte" title="PHP Magazin Inhalte" xmlUrl="http://jaxenter.de/all-content.xml" htmlUrl="http://jaxenter.de/"/>
+        </outline>
+        <outline text="IT-Personen" title="IT-Personen">
+            <outline type="rss" text="Adam Bien" title="Adam Bien" xmlUrl="http://feeds.feedburner.com/AdamBien" htmlUrl="http://adambien.blog/roller"/>
+            <outline type="rss" text="Michal Gajdos's blog" title="Michal Gajdos's blog" xmlUrl="http://blogs.oracle.com/mgajdos/feed/entries/rss" htmlUrl="https://blogs.oracle.com/mgajdos/compendium/rss"/>
+            <outline type="rss" text="Mechanical Sympathy" title="Mechanical Sympathy" xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" htmlUrl="https://mechanical-sympathy.blogspot.com/"/>
+            <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="https://martinfowler.com"/>
+            <outline type="rss" text="Otaku, Cedric's blog" title="Otaku, Cedric's blog" xmlUrl="http://beust.com/weblog/feed/" htmlUrl="http://beust.com/weblog"/>
+            <outline type="rss" text="Miroslav Fuksa's blog" title="Miroslav Fuksa's blog" xmlUrl="http://blogs.oracle.com/mira/feed/entries/rss" htmlUrl="https://blogs.oracle.com/mira/"/>
+            <outline type="rss" text="Pavel Bucek's weblog" title="Pavel Bucek's weblog" xmlUrl="http://blogs.oracle.com/PavelBucek/feed/entries/rss" htmlUrl="https://blogs.oracle.com/pavelbucek/compendium/rss"/>
+        </outline>
+        <outline text="oose Innovative Informatik" title="oose Innovative Informatik">
+            <outline type="rss" text="oose Innovative Informatik" title="oose Innovative Informatik" xmlUrl="https://www.oose.de/feed/?mindmap-category=design-thinking%252Cprojekte-leiten%252Cgeschaftsprozesse%252Canalyse-und-design%252Crequirements-engineering%252Csoftwarearchitektur%252Csystems-engineering%252Ctechnik-und-programmierung%252Csoftskills%252Cqualitatssicherung-testen%252Czertifizierungen%252Cmisc&amp;mind_author=29%252C3%252C28%252C45%252C54%252C51%252C6%252C46%252C33%252C43%252C38%252C41%252C40%252C39%252C52%252C42%252C7%252C50%252C48%252C36%252C37%252C35%252C49%252C44%252C60%252C55%252C63%252C59%252C8&amp;types=blogpost%252Cpublikation%252Cabendvortrag" htmlUrl="https://www.oose.de"/>
+        </outline>
+        <outline text="» Blog" title="» Blog">
+            <outline type="rss" text="» Blog" title="» Blog" xmlUrl="https://www.elasticsearch.org/blog/feed/" htmlUrl="https://www.elastic.co"/>
+        </outline>
+        <outline text="Testen von SW" title="Testen von SW">
+            <outline type="rss" text="Arquillian Blog" title="Arquillian Blog" xmlUrl="http://arquillian.org/blog/atom.xml" htmlUrl="http://arquillian.org/blog"/>
+            <outline type="rss" text="Jayway Team Blog" title="Jayway Team Blog" xmlUrl="http://www.jayway.com/feed/" htmlUrl="https://www.jayway.com"/>
+        </outline>
+        <outline text="Frameworks" title="Frameworks">
+            <outline type="rss" text="Neo4j Blog" title="Neo4j Blog" xmlUrl="http://feeds.feedburner.com/Neo4jBlog" htmlUrl="https://neo4j.com"/>
+        </outline>
+        <outline text="IT-Firmen" title="IT-Firmen">
+            <outline type="rss" text="Bitbucket" title="Bitbucket" xmlUrl="https://blog.bitbucket.org/feed/" htmlUrl="https://blog.bitbucket.org"/>
+            <outline type="rss" text="codecentric AG Blog" title="codecentric AG Blog" xmlUrl="http://blog.codecentric.de/en/feed/" htmlUrl="https://blog.codecentric.de/en"/>
+            <outline type="rss" text="INNOQ" title="INNOQ" xmlUrl="https://www.innoq.com/de/timeline.atom" htmlUrl="https://www.innoq.com"/>
+            <outline type="rss" text="Netflix Techblog" title="Netflix Techblog" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://medium.com/netflix-techblog?source=rss----2615bd06b42e---4"/>
+            <outline type="rss" text="Hashicorp Blog" title="Hashicorp Blog" xmlUrl="http://www.hashicorp.com/feed.xml" htmlUrl="https://www.hashicorp.com/blog"/>
+        </outline>
+        <outline text="Japod's blog" title="Japod's blog">
+            <outline type="rss" text="Coding the Web" title="Coding the Web" xmlUrl="http://marek.potociar.net/feed/" htmlUrl="http://marek.potociar.net"/>
+            <outline type="rss" text="Japod's blog" title="Japod's blog" xmlUrl="http://blogs.oracle.com/japod/feed/entries/rss" htmlUrl="https://blogs.oracle.com/japod/compendium/rss"/>
+        </outline>
+        <outline text="All Things Distributed" title="All Things Distributed">
+            <outline type="rss" text="All Things Distributed" title="All Things Distributed" xmlUrl="http://www.allthingsdistributed.com/index.xml" htmlUrl="http://www.allthingsdistributed.com"/>
+        </outline>
+        <outline type="rss" text="Java EE Config Blog I" title="Java EE Config Blog I" xmlUrl="http://javaeeconfig.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://javaeeconfig.blogspot.com/"/>
+        <outline type="rss" text="Java EE Config Blog I" title="Java EE Config Blog I" xmlUrl="http://javaeeconfig.blogspot.com/feeds/posts/default" htmlUrl="http://javaeeconfig.blogspot.com/"/>
+    </body>
+</opml>
